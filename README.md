@@ -4,6 +4,8 @@ An app to explore the characters of [Rick and Morty](https://en.wikipedia.org/wi
 
 ![](docs/rick-and-morty-explorer.png)
 
+Explore at [https://martin-anonymous.github.io/rick-and-morty-explorer/](https://martin-anonymous.github.io/rick-and-morty-explorer/)
+
 ## Why?
 
 This is a work trial task. Requirements:
