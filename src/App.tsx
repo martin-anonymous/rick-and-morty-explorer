@@ -13,7 +13,7 @@ function App() {
         <p>Find your favourite Rick and Morty character!</p>
         <Card variant="outlined">
           <CardContent>
-            <img alt="" className="Card-img" src="https://i.guim.co.uk/img/media/b563ac5db4b4a4e1197c586bbca3edebca9173cd/0_12_3307_1985/master/3307.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=61a26bf43da26e4ca97e932e5ee113f7"/>
+            <img alt="" className="Card-img" src="https://media.cdn.adultswim.com/uploads/20210914/219141616186-1910281358343-RAM.jpg"/>
           </CardContent>
         </Card>
         <br/>
